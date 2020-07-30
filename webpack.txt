@@ -1,0 +1,11 @@
+入口 entry points
+entry: "xx.js" 单个文件
+entry:{ app: "app.js", search: "search.js"} 多个文件
+
+输出 output
+
+加载 loader 预处理文件
+text 文件的类型
+use 用什么JS加载
+
+插件 plugins
